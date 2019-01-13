@@ -2,6 +2,7 @@
 
 ## vNEXT
 ### Highlights
++ Add support for writing functional components, see [the docs](https://slinky.shadaj.me/docs/functional-components/) for more details [PR #217](https://github.com/shadaj/slinky/pull/217)
 + Slinky support for Scala 2.13 is now built with **2.13.0-M5** [PR #202](https://github.com/shadaj/slinky/pull/202)
 + Add support for `getDerivedStateFromProps` from React 16.6 [PR #206](https://github.com/shadaj/slinky/pull/206)
 + Add support for the `Suspense` component from React 16.6 [PR #216](https://github.com/shadaj/slinky/pull/216)
